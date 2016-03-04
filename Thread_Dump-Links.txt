@@ -1,0 +1,11 @@
+https://www.javacodegeeks.com/2012/03/jvm-how-to-analyze-thread-dump.html
+
+https://blogs.oracle.com/ATeamExalogic/entry/analyzing_thread_dumps_in_middleware
+
+http://javaeesupportpatterns.blogspot.in/2012/11/java-deadlock-troubleshooting-and.html
+
+http://javaeesupportpatterns.blogspot.in/p/thread-dump-analysis.html
+
+http://javaeesupportpatterns.blogspot.in/2012/12/qotd-weblogic-threads.html
+
+https://dzone.com/articles/weblogic-thread-monitoring
